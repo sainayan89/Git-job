@@ -1,1 +1,4 @@
-*.py, *.css, *.csv
+*.py
+*.css
+*.csv
+
